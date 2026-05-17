@@ -3,7 +3,7 @@
 A fully responsive personal portfolio website built with HTML, CSS, and JavaScript.
 
 ## 🔗 Live Demo
-[Click here to view](your-github-pages-link)
+[Click here to view](https://mohammadakram-17.github.io/my-portfolio/)
 
 ## 🛠️ Built With
 - HTML5
